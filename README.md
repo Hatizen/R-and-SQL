@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hatizen
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning R,SQL and Python
