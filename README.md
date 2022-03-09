@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Hatizen
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning R,SQL and Python
+👋 Hi, I’m Alice
+
+- I’m currently learning Front-end and data analysis/ML
+
+- Technologies like Java-script, Bootstrap, R,SQL and Python
